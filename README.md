@@ -20,7 +20,7 @@ https://www.somagnews.com/nvidia-invites-pc-players-to-fight-corona-virus/
     - Fork this repo and link it to Heroku
 - Make sure worker count is scaled to 1 with Free Dynos
 - Watch log and make sure it is working
-    - It may takes some time to find available tasks since our setup can only handle small and simple work
+    - It may takes some time to find available tasks since our setup can only handle small and simple work 
 
 ## Disclaimer
 This project is purely for my personal use and under MIT licence. If you want reuse the code/setup, be responsible.   
